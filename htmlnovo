@@ -1,20 +1,14 @@
 <!DOCTYPE html>
 <html>
-
+<head>
+<title>Olá Mundo</title>
+</head>
 <body>
 
-    <h2>HTML Forms</h2>
-
-    <form action=>
-        <label for="fname">Primeiro nome:</label><br>
-        <input type="text" id="fname" name="fname" value="Aries"><br>
-        <label for="lname">Sobrenome:</label><br>
-        <input type="text" id="lname" name="lname" value="Doe"><br><br>
-        <input type="submit" value="Submit">
-    </form>
-
-    <p>If you click the "Submit" button, the form-data will be sent to a page called "action_page.php".</p>
+<h1>Meu nome é</h1>
+<h3>Luisa Bernardo</h3>
+<h2>Colégio Estadual Ricardo Lunardelli</h2>
+<p>Talento Tech</p>
 
 </body>
-
 </html>
